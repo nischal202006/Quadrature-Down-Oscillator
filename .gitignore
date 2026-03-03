@@ -1,0 +1,21 @@
+# LTspice simulation output files
+*.raw
+*.RAW
+*.log
+*.out
+*.net
+
+# LTspice backup / autosave files
+*.bak
+*.tmp
+*.backup
+
+# Plot settings (optional to ignore)
+*.plt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code (if used)
+.vscode/
