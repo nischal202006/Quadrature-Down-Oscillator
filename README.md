@@ -14,12 +14,12 @@ Direct-conversion (Zero-IF) receivers are essential in modern digital communicat
 * **I/Q Signal Path:** Separates the input into In-phase (I) and Quadrature (Q) components, essential for modern modulation schemes like QAM and PSK.
 * **Filtering Stage:** Integrated Low-Pass Filters (LPF) to suppress high-frequency mixing products and isolate the baseband signal.
 
-## 🛠️ Technical Stack
+##  Technical Stack
 * **Simulation Tool:** LTspice (Advanced Transient and AC Analysis).
 * **Circuit Design:** Operational Amplifier-based oscillators and active/passive mixer topologies.
 * **Theory:** RF System Design, Direct-Conversion architectures, and Quadrature Signal Processing.
 
-## 📈 System Architecture
+##  System Architecture
 The system follows a classic direct-conversion topology:
 1. **RF Input:** Receives the high-frequency modulated signal.
 2. **LO Generation:** The Quadrature Oscillator generates the $sin(\omega t)$ and $cos(\omega t)$ signals.
