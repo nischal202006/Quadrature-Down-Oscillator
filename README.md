@@ -1,7 +1,10 @@
 # Quadrature Down Converter Design & Simulation
 
 An end-to-end design and simulation of a Direct-Conversion Quadrature Down Converter. This project involves the implementation of a high-precision Quadrature Oscillator and a Dual-Mixer architecture to perform frequency translation and I/Q signal separation.
-
+##  Authors
+* **Nischal Ganipisetty**
+* **Regalla Kowshikh**
+* **Batta Venkata Shshank**
 ##  Project Overview
 Direct-conversion (Zero-IF) receivers are essential in modern digital communications for their high integration and low power consumption. This project focuses on the hardware-level design of the down-conversion stage, ensuring phase accuracy and minimal signal distortion.
 
@@ -42,9 +45,7 @@ The repository includes several `.asc` files representing the modular stages of 
 * `/Documentation`: Technical reports and reference papers on direct-conversion transceivers.
 * `/Presentation`: Project overview and summary of results.
 
-## 👥 Contributors
-* **Nischal Ganipisetty**
-* **Project Team ID: 39**
+
 
 ---
 *Developed as part of a formal study on RF transceiver architectures and hardware-software integration.*
